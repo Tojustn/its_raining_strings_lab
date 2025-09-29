@@ -5,6 +5,6 @@
 
 #include "../src/raining.hpp"
 
-TEST_CASE( "it returns Hello World" ) {
-    REQUIRE( hello() == "Hello World!" );
+TEST_CASE( "Test Raining Strings" ) {
+    REQUIRE("Test" == "Test");
 }

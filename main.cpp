@@ -3,5 +3,6 @@
 #include "src/raining.hpp"
 
 int main() {
-  // Your driver program goes here
+    rainingStrings();
+    return 0; 
 }
